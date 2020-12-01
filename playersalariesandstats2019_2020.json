@@ -1,0 +1,4022 @@
+[
+  {
+    "Name": "Russell Westbrook",
+    "Team": "HOU",
+    "Salary": 38506482,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.8,
+    "Adjusted_VORP": 3.6,
+    "Win Shares": 4.2,
+    "Adjusted Win Shares": 5.6
+  },
+  {
+    "Name": "Chris Paul",
+    "Team": "OKC",
+    "Salary": 38506482,
+    "Rookie Scale Contract?": "No",
+    "VORP": 3.5,
+    "Adjusted_VORP": 5.3,
+    "Win Shares": 8.9,
+    "Adjusted Win Shares": 10.3
+  },
+  {
+    "Name": "James Harden",
+    "Team": "HOU",
+    "Salary": 38199000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 7.3,
+    "Adjusted_VORP": 9.1,
+    "Win Shares": 13.1,
+    "Adjusted Win Shares": 14.5
+  },
+  {
+    "Name": "LeBron James",
+    "Team": "LAL",
+    "Salary": 37436858,
+    "Rookie Scale Contract?": "No",
+    "VORP": 6.1,
+    "Adjusted_VORP": 7.9,
+    "Win Shares": 9.8,
+    "Adjusted Win Shares": 11.2
+  },
+  {
+    "Name": "Blake Griffin",
+    "Team": "DET",
+    "Salary": 34234964,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": -0.1,
+    "Adjusted Win Shares": 1.3
+  },
+  {
+    "Name": "Kyle Lowry",
+    "Team": "TOR",
+    "Salary": 33296296,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.8,
+    "Adjusted_VORP": 4.6,
+    "Win Shares": 7.5,
+    "Adjusted Win Shares": 8.9
+  },
+  {
+    "Name": "Paul George",
+    "Team": "LAC",
+    "Salary": 33005556,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.5,
+    "Adjusted_VORP": 4.3,
+    "Win Shares": 4.8,
+    "Adjusted Win Shares": 6.2
+  },
+  {
+    "Name": "Kemba Walker",
+    "Team": "BOS",
+    "Salary": 32742000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.9,
+    "Adjusted_VORP": 4.7,
+    "Win Shares": 5.9,
+    "Adjusted Win Shares": 7.3
+  },
+  {
+    "Name": "Kawhi Leonard",
+    "Team": "LAC",
+    "Salary": 32742000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 5.1,
+    "Adjusted_VORP": 6.9,
+    "Win Shares": 8.7,
+    "Adjusted Win Shares": 10.1
+  },
+  {
+    "Name": "Jimmy Butler",
+    "Team": "MIA",
+    "Salary": 32742000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 3.7,
+    "Adjusted_VORP": 5.5,
+    "Win Shares": 9,
+    "Adjusted Win Shares": 10.4
+  },
+  {
+    "Name": "Tobias Harris",
+    "Team": "PHI",
+    "Salary": 32742000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.8,
+    "Adjusted_VORP": 3.6,
+    "Win Shares": 6.2,
+    "Adjusted Win Shares": 7.6
+  },
+  {
+    "Name": "Gordon Hayward",
+    "Team": "BOS",
+    "Salary": 32700690,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2,
+    "Adjusted_VORP": 3.8,
+    "Win Shares": 5.7,
+    "Adjusted Win Shares": 7.1
+  },
+  {
+    "Name": "Mike Conley",
+    "Team": "UTA",
+    "Salary": 32511623,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Kyrie Irving",
+    "Team": "BRK",
+    "Salary": 31742000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 2.9,
+    "Adjusted Win Shares": 4.3
+  },
+  {
+    "Name": "Khris Middleton",
+    "Team": "MIL",
+    "Salary": 30603448,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.9,
+    "Adjusted_VORP": 4.7,
+    "Win Shares": 7.9,
+    "Adjusted Win Shares": 9.3
+  },
+  {
+    "Name": "Paul Millsap",
+    "Team": "DEN",
+    "Salary": 30500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 3.5,
+    "Adjusted Win Shares": 4.9
+  },
+  {
+    "Name": "Damian Lillard",
+    "Team": "POR",
+    "Salary": 29802321,
+    "Rookie Scale Contract?": "No",
+    "VORP": 5.9,
+    "Adjusted_VORP": 7.7,
+    "Win Shares": 11.6,
+    "Adjusted Win Shares": 13
+  },
+  {
+    "Name": "Kevin Love",
+    "Team": "CLE",
+    "Salary": 28942830,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.8,
+    "Adjusted_VORP": 3.6,
+    "Win Shares": 3.8,
+    "Adjusted Win Shares": 5.2
+  },
+  {
+    "Name": "Nikola Vucevic",
+    "Team": "ORL",
+    "Salary": 28000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 3.1,
+    "Adjusted_VORP": 4.9,
+    "Win Shares": 6.4,
+    "Adjusted Win Shares": 7.8
+  },
+  {
+    "Name": "Al Horford",
+    "Team": "PHI",
+    "Salary": 28000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.2,
+    "Adjusted_VORP": 4,
+    "Win Shares": 5.4,
+    "Adjusted Win Shares": 6.8
+  },
+  {
+    "Name": "DeMar DeRozan",
+    "Team": "SAS",
+    "Salary": 27739975,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.3,
+    "Adjusted_VORP": 4.1,
+    "Win Shares": 7.3,
+    "Adjusted Win Shares": 8.7
+  },
+  {
+    "Name": "CJ McCollum",
+    "Team": "POR",
+    "Salary": 27556959,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 4.1,
+    "Adjusted Win Shares": 5.5
+  },
+  {
+    "Name": "Andrew Wiggins",
+    "Team": "GSW",
+    "Salary": 27504630,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Joel Embiid",
+    "Team": "PHI",
+    "Salary": 27504630,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.5,
+    "Adjusted_VORP": 4.3,
+    "Win Shares": 6,
+    "Adjusted Win Shares": 7.4
+  },
+  {
+    "Name": "Kristaps Porzingis",
+    "Team": "DAL",
+    "Salary": 27285000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.8,
+    "Adjusted_VORP": 3.6,
+    "Win Shares": 5.2,
+    "Adjusted Win Shares": 6.6
+  },
+  {
+    "Name": "D'Angelo Russell",
+    "Team": "MIN",
+    "Salary": 27285000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.4,
+    "Adjusted_VORP": 3.2,
+    "Win Shares": 1.8,
+    "Adjusted Win Shares": 3.2
+  },
+  {
+    "Name": "Karl-Anthony Towns",
+    "Team": "MIN",
+    "Salary": 27285000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.9,
+    "Adjusted_VORP": 4.7,
+    "Win Shares": 5.1,
+    "Adjusted Win Shares": 6.5
+  },
+  {
+    "Name": "Devin Booker",
+    "Team": "PHO",
+    "Salary": 27285000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.6,
+    "Adjusted_VORP": 4.4,
+    "Win Shares": 7.5,
+    "Adjusted Win Shares": 8.9
+  },
+  {
+    "Name": "Otto Porter",
+    "Team": "CHI",
+    "Salary": 27250576,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Andre Drummond",
+    "Team": "CLE",
+    "Salary": 27093019,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.4,
+    "Adjusted_VORP": 3.2,
+    "Win Shares": 4.2,
+    "Adjusted Win Shares": 5.6
+  },
+  {
+    "Name": "Anthony Davis",
+    "Team": "LAL",
+    "Salary": 27093019,
+    "Rookie Scale Contract?": "No",
+    "VORP": 5.4,
+    "Adjusted_VORP": 7.2,
+    "Win Shares": 11.1,
+    "Adjusted Win Shares": 12.5
+  },
+  {
+    "Name": "Bradley Beal",
+    "Team": "WAS",
+    "Salary": 27093019,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.5,
+    "Adjusted_VORP": 4.3,
+    "Win Shares": 5.1,
+    "Adjusted Win Shares": 6.5
+  },
+  {
+    "Name": "Hassan Whiteside",
+    "Team": "POR",
+    "Salary": 27093018,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.6,
+    "Adjusted_VORP": 4.4,
+    "Win Shares": 8.5,
+    "Adjusted Win Shares": 9.9
+  },
+  {
+    "Name": "Nikola Jokic",
+    "Team": "DEN",
+    "Salary": 26573595,
+    "Rookie Scale Contract?": "No",
+    "VORP": 5.5,
+    "Adjusted_VORP": 7.3,
+    "Win Shares": 9.8,
+    "Adjusted Win Shares": 11.2
+  },
+  {
+    "Name": "Jrue Holiday",
+    "Team": "NOP",
+    "Salary": 26131111,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2,
+    "Adjusted_VORP": 3.8,
+    "Win Shares": 3.9,
+    "Adjusted Win Shares": 5.3
+  },
+  {
+    "Name": "LaMarcus Aldridge",
+    "Team": "SAS",
+    "Salary": 26000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.5,
+    "Adjusted Win Shares": 5.9
+  },
+  {
+    "Name": "Giannis Antetokounmpo",
+    "Team": "MIL",
+    "Salary": 25842697,
+    "Rookie Scale Contract?": "No",
+    "VORP": 6.6,
+    "Adjusted_VORP": 8.4,
+    "Win Shares": 11.1,
+    "Adjusted Win Shares": 12.5
+  },
+  {
+    "Name": "Steven Adams",
+    "Team": "OKC",
+    "Salary": 25842697,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.1,
+    "Adjusted_VORP": 3.9,
+    "Win Shares": 6.5,
+    "Adjusted Win Shares": 7.9
+  },
+  {
+    "Name": "Marc Gasol",
+    "Team": "TOR",
+    "Salary": 25595700,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 3,
+    "Adjusted Win Shares": 4.4
+  },
+  {
+    "Name": "Nicolas Batum",
+    "Team": "CHO",
+    "Salary": 25565217,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.6,
+    "Adjusted Win Shares": 2
+  },
+  {
+    "Name": "Rudy Gobert",
+    "Team": "UTA",
+    "Salary": 25008427,
+    "Rookie Scale Contract?": "No",
+    "VORP": 3.3,
+    "Adjusted_VORP": 5.1,
+    "Win Shares": 10.7,
+    "Adjusted Win Shares": 12.1
+  },
+  {
+    "Name": "Harrison Barnes",
+    "Team": "SAC",
+    "Salary": 24147727,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 4.6,
+    "Adjusted Win Shares": 6
+  },
+  {
+    "Name": "Serge Ibaka",
+    "Team": "TOR",
+    "Salary": 23271604,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3.9,
+    "Adjusted Win Shares": 5.3
+  },
+  {
+    "Name": "Danilo Gallinari",
+    "Team": "OKC",
+    "Salary": 22615559,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.4,
+    "Adjusted_VORP": 4.2,
+    "Win Shares": 6.3,
+    "Adjusted Win Shares": 7.7
+  },
+  {
+    "Name": "Victor Oladipo",
+    "Team": "IND",
+    "Salary": 21000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0,
+    "Adjusted Win Shares": 1.4
+  },
+  {
+    "Name": "Malcolm Brogdon",
+    "Team": "IND",
+    "Salary": 20000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 4,
+    "Adjusted Win Shares": 5.4
+  },
+  {
+    "Name": "Terry Rozier",
+    "Team": "CHO",
+    "Salary": 19894737,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3,
+    "Adjusted Win Shares": 4.4
+  },
+  {
+    "Name": "Aaron Gordon",
+    "Team": "ORL",
+    "Salary": 19863636,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 3.7,
+    "Adjusted Win Shares": 5.1
+  },
+  {
+    "Name": "Zach LaVine",
+    "Team": "CHI",
+    "Salary": 19500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.4,
+    "Adjusted_VORP": 4.2,
+    "Win Shares": 4,
+    "Adjusted Win Shares": 5.4
+  },
+  {
+    "Name": "Kent Bazemore",
+    "Team": "SAC",
+    "Salary": 19269662,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Tyler Johnson",
+    "Team": "PHO",
+    "Salary": 19245370,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Goran Dragic",
+    "Team": "MIA",
+    "Salary": 19217900,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3.5,
+    "Adjusted Win Shares": 4.9
+  },
+  {
+    "Name": "Jeff Teague",
+    "Team": "ATL",
+    "Salary": 19000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Evan Turner",
+    "Team": "MIN",
+    "Salary": 18606557,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": -0.3,
+    "Adjusted Win Shares": 1.1
+  },
+  {
+    "Name": "Tristan Thompson",
+    "Team": "CLE",
+    "Salary": 18539130,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 3.1,
+    "Adjusted Win Shares": 4.5
+  },
+  {
+    "Name": "Draymond Green",
+    "Team": "GSW",
+    "Salary": 18539130,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 1.1,
+    "Adjusted Win Shares": 2.5
+  },
+  {
+    "Name": "Tim Hardaway",
+    "Team": "DAL",
+    "Salary": 18150000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 4.4,
+    "Adjusted Win Shares": 5.8
+  },
+  {
+    "Name": "Myles Turner",
+    "Team": "IND",
+    "Salary": 18000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 4.2,
+    "Adjusted Win Shares": 5.6
+  },
+  {
+    "Name": "Julius Randle",
+    "Team": "NYK",
+    "Salary": 18000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.9,
+    "Adjusted_VORP": 2.7,
+    "Win Shares": 2.7,
+    "Adjusted Win Shares": 4.1
+  },
+  {
+    "Name": "Gary Harris",
+    "Team": "DEN",
+    "Salary": 17839286,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Allen Crabbe",
+    "Team": "MIN",
+    "Salary": 17818456,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": -0.1,
+    "Adjusted Win Shares": 1.3
+  },
+  {
+    "Name": "Derrick Favors",
+    "Team": "NOP",
+    "Salary": 17650000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.9,
+    "Adjusted_VORP": 2.7,
+    "Win Shares": 4.2,
+    "Adjusted Win Shares": 5.6
+  },
+  {
+    "Name": "Reggie Jackson",
+    "Team": "DET",
+    "Salary": 17286956,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Andre Iguodala",
+    "Team": "MIA",
+    "Salary": 17185185,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.6,
+    "Adjusted Win Shares": 2
+  },
+  {
+    "Name": "Bismack Biyombo",
+    "Team": "CHO",
+    "Salary": 17000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 2.4,
+    "Adjusted Win Shares": 3.8
+  },
+  {
+    "Name": "Evan Fournier",
+    "Team": "ORL",
+    "Salary": 17000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 4.6,
+    "Adjusted Win Shares": 6
+  },
+  {
+    "Name": "Bojan Bogdanovic",
+    "Team": "UTA",
+    "Salary": 17000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 4.2,
+    "Adjusted Win Shares": 5.6
+  },
+  {
+    "Name": "Gorgui Dieng",
+    "Team": "MEM",
+    "Salary": 16229213,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Ricky Rubio",
+    "Team": "PHO",
+    "Salary": 16200000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.9,
+    "Adjusted Win Shares": 6.3
+  },
+  {
+    "Name": "Jonas Valanciunas",
+    "Team": "MEM",
+    "Salary": 16000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2,
+    "Adjusted_VORP": 3.8,
+    "Win Shares": 7,
+    "Adjusted Win Shares": 8.4
+  },
+  {
+    "Name": "Brandon Knight",
+    "Team": "DET",
+    "Salary": 15643750,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Eric Bledsoe",
+    "Team": "MIL",
+    "Salary": 15625000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 5.4,
+    "Adjusted Win Shares": 6.8
+  },
+  {
+    "Name": "Kelly Oubre",
+    "Team": "PHO",
+    "Salary": 15625000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 3.8,
+    "Adjusted Win Shares": 5.2
+  },
+  {
+    "Name": "Dennis Schröder",
+    "Team": "OKC",
+    "Salary": 15500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 3.6,
+    "Adjusted Win Shares": 5
+  },
+  {
+    "Name": "Ian Mahinmi",
+    "Team": "WAS",
+    "Salary": 15450051,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 1.4,
+    "Adjusted Win Shares": 2.8
+  },
+  {
+    "Name": "James Johnson",
+    "Team": "MIN",
+    "Salary": 15349400,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.1,
+    "Adjusted Win Shares": 2.5
+  },
+  {
+    "Name": "Marcus Morris",
+    "Team": "LAC",
+    "Salary": 15000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 3.6,
+    "Adjusted Win Shares": 5
+  },
+  {
+    "Name": "Bobby Portis",
+    "Team": "NYK",
+    "Salary": 15000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Clint Capela",
+    "Team": "ATL",
+    "Salary": 14896552,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 4.9,
+    "Adjusted Win Shares": 6.3
+  },
+  {
+    "Name": "Danny Green",
+    "Team": "LAL",
+    "Salary": 14634146,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 3.4,
+    "Adjusted Win Shares": 4.8
+  },
+  {
+    "Name": "Cody Zeller",
+    "Team": "CHO",
+    "Salary": 14471910,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 3.6,
+    "Adjusted Win Shares": 5
+  },
+  {
+    "Name": "Eric Gordon",
+    "Team": "HOU",
+    "Salary": 14057730,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.5,
+    "Adjusted_VORP": 1.3,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Marvin Williams",
+    "Team": "CHO",
+    "Salary": 14049901,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.5,
+    "Adjusted Win Shares": 2.9
+  },
+  {
+    "Name": "Mason Plumlee",
+    "Team": "DEN",
+    "Salary": 14041096,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 3.4,
+    "Adjusted Win Shares": 4.8
+  },
+  {
+    "Name": "Rudy Gay",
+    "Team": "SAS",
+    "Salary": 14000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.4,
+    "Adjusted_VORP": 2.2,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "J.J. Redick",
+    "Team": "NOP",
+    "Salary": 13486300,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 4.1,
+    "Adjusted Win Shares": 5.5
+  },
+  {
+    "Name": "Jordan Clarkson",
+    "Team": "UTA",
+    "Salary": 13437500,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Dewayne Dedmon",
+    "Team": "ATL",
+    "Salary": 13333334,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Justise Winslow",
+    "Team": "MEM",
+    "Salary": 13000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0,
+    "Adjusted Win Shares": 1.4
+  },
+  {
+    "Name": "Thaddeus Young",
+    "Team": "CHI",
+    "Salary": 12900000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Will Barton",
+    "Team": "DEN",
+    "Salary": 12776786,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.2,
+    "Adjusted Win Shares": 5.6
+  },
+  {
+    "Name": "Courtney Lee",
+    "Team": "DAL",
+    "Salary": 12759670,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Solomon Hill",
+    "Team": "MIA",
+    "Salary": 12758781,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Larry Nance",
+    "Team": "CLE",
+    "Salary": 12727273,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.4,
+    "Adjusted_VORP": 3.2,
+    "Win Shares": 3.9,
+    "Adjusted Win Shares": 5.3
+  },
+  {
+    "Name": "Marcus Smart",
+    "Team": "BOS",
+    "Salary": 12553471,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 4.5,
+    "Adjusted Win Shares": 5.9
+  },
+  {
+    "Name": "Terrence Ross",
+    "Team": "ORL",
+    "Salary": 12500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3,
+    "Adjusted Win Shares": 4.4
+  },
+  {
+    "Name": "Patty Mills",
+    "Team": "SAS",
+    "Salary": 12428571,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 2.8,
+    "Adjusted Win Shares": 4.2
+  },
+  {
+    "Name": "Patrick Beverley",
+    "Team": "LAC",
+    "Salary": 12345679,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.4,
+    "Adjusted_VORP": 3.2,
+    "Win Shares": 3.6,
+    "Adjusted Win Shares": 5
+  },
+  {
+    "Name": "Trevor Ariza",
+    "Team": "POR",
+    "Salary": 12200000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Michael Kidd-Gilchrist",
+    "Team": "CHO",
+    "Salary": 12189237,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": -0.1,
+    "Adjusted Win Shares": 1.3
+  },
+  {
+    "Name": "Brook Lopez",
+    "Team": "MIL",
+    "Salary": 12093024,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.9,
+    "Adjusted_VORP": 3.7,
+    "Win Shares": 5.5,
+    "Adjusted Win Shares": 6.9
+  },
+  {
+    "Name": "Jusuf Nurkic",
+    "Team": "POR",
+    "Salary": 12000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Cory Joseph",
+    "Team": "SAC",
+    "Salary": 12000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 2.3,
+    "Adjusted Win Shares": 3.7
+  },
+  {
+    "Name": "Joe Ingles",
+    "Team": "UTA",
+    "Salary": 11954546,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.8,
+    "Adjusted Win Shares": 6.2
+  },
+  {
+    "Name": "Kelly Olynyk",
+    "Team": "MIA",
+    "Salary": 11667885,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 3.7,
+    "Adjusted Win Shares": 5.1
+  },
+  {
+    "Name": "Maurice Harkless",
+    "Team": "NYK",
+    "Salary": 11511234,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Tony Snell",
+    "Team": "DET",
+    "Salary": 11392857,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 2.6,
+    "Adjusted Win Shares": 4
+  },
+  {
+    "Name": "Robert Covington",
+    "Team": "HOU",
+    "Salary": 11301219,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.4,
+    "Adjusted_VORP": 2.2,
+    "Win Shares": 3.7,
+    "Adjusted Win Shares": 5.1
+  },
+  {
+    "Name": "Meyers Leonard",
+    "Team": "MIA",
+    "Salary": 11286515,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "T.J. Warren",
+    "Team": "IND",
+    "Salary": 10810000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.7,
+    "Adjusted_VORP": 3.5,
+    "Win Shares": 6.5,
+    "Adjusted Win Shares": 7.9
+  },
+  {
+    "Name": "Andre Roberson",
+    "Team": "OKC",
+    "Salary": 10740741,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0,
+    "Adjusted Win Shares": 1.4
+  },
+  {
+    "Name": "Spencer Dinwiddie",
+    "Team": "BRK",
+    "Salary": 10605600,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.9,
+    "Adjusted_VORP": 3.7,
+    "Win Shares": 4.8,
+    "Adjusted Win Shares": 6.2
+  },
+  {
+    "Name": "Jeremy Lamb",
+    "Team": "IND",
+    "Salary": 10500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 2.7,
+    "Adjusted Win Shares": 4.1
+  },
+  {
+    "Name": "Dwight Powell",
+    "Team": "DAL",
+    "Salary": 10259375,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.9,
+    "Adjusted_VORP": 2.7,
+    "Win Shares": 3.6,
+    "Adjusted Win Shares": 5
+  },
+  {
+    "Name": "Josh Richardson",
+    "Team": "PHI",
+    "Salary": 10116576,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "Norman Powell",
+    "Team": "TOR",
+    "Salary": 10116576,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.6,
+    "Adjusted Win Shares": 6
+  },
+  {
+    "Name": "Tomáš Satoranský",
+    "Team": "CHI",
+    "Salary": 10000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 3.5,
+    "Adjusted Win Shares": 4.9
+  },
+  {
+    "Name": "DeAndre Jordan",
+    "Team": "BRK",
+    "Salary": 9881598,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 5.2,
+    "Adjusted Win Shares": 6.6
+  },
+  {
+    "Name": "Taj Gibson",
+    "Team": "NYK",
+    "Salary": 9800000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 2.6,
+    "Adjusted Win Shares": 4
+  },
+  {
+    "Name": "Zion Williamson",
+    "Team": "NOP",
+    "Salary": 9757440,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 2,
+    "Adjusted Win Shares": 3.4
+  },
+  {
+    "Name": "Markelle Fultz",
+    "Team": "ORL",
+    "Salary": 9745200,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 2.7,
+    "Adjusted Win Shares": 4.1
+  },
+  {
+    "Name": "John Henson",
+    "Team": "DET",
+    "Salary": 9732396,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Matthew Dellavedova",
+    "Team": "CLE",
+    "Salary": 9607500,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.7,
+    "Adjusted_VORP": 1.1,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Dante Exum",
+    "Team": "CLE",
+    "Salary": 9600000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Deandre Ayton",
+    "Team": "PHO",
+    "Salary": 9562920,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 3.1,
+    "Adjusted Win Shares": 4.5
+  },
+  {
+    "Name": "Delon Wright",
+    "Team": "DAL",
+    "Salary": 9473684,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.4,
+    "Adjusted Win Shares": 5.8
+  },
+  {
+    "Name": "Jerami Grant",
+    "Team": "DEN",
+    "Salary": 9346153,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 4.4,
+    "Adjusted Win Shares": 5.8
+  },
+  {
+    "Name": "Fred VanVleet",
+    "Team": "TOR",
+    "Salary": 9346153,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.3,
+    "Adjusted_VORP": 4.1,
+    "Win Shares": 5.8,
+    "Adjusted Win Shares": 7.2
+  },
+  {
+    "Name": "Al-Farouq Aminu",
+    "Team": "ORL",
+    "Salary": 9258000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "George Hill",
+    "Team": "MIL",
+    "Salary": 9133907,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 5.5,
+    "Adjusted Win Shares": 6.9
+  },
+  {
+    "Name": "Kyle Anderson",
+    "Team": "MEM",
+    "Salary": 9073050,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.9,
+    "Adjusted_VORP": 2.7,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Ja Morant",
+    "Team": "MEM",
+    "Salary": 8730240,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.2,
+    "Adjusted_VORP": 3,
+    "Win Shares": 3.8,
+    "Adjusted Win Shares": 5.2
+  },
+  {
+    "Name": "C.J. Miles",
+    "Team": "WAS",
+    "Salary": 8730158,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Lonzo Ball",
+    "Team": "NOP",
+    "Salary": 8719320,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.3,
+    "Adjusted_VORP": 3.1,
+    "Win Shares": 2.4,
+    "Adjusted Win Shares": 3.8
+  },
+  {
+    "Name": "E'Twaun Moore",
+    "Team": "NOP",
+    "Salary": 8664928,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Marvin Bagley",
+    "Team": "SAC",
+    "Salary": 8556120,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Bogdan Bogdanovic",
+    "Team": "SAC",
+    "Salary": 8529386,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.2,
+    "Adjusted_VORP": 3,
+    "Win Shares": 3.1,
+    "Adjusted Win Shares": 4.5
+  },
+  {
+    "Name": "Tyus Jones",
+    "Team": "MEM",
+    "Salary": 8408000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3,
+    "Adjusted Win Shares": 4.4
+  },
+  {
+    "Name": "P.J. Tucker",
+    "Team": "HOU",
+    "Salary": 8349039,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 4,
+    "Adjusted Win Shares": 5.4
+  },
+  {
+    "Name": "Cristiano Felício",
+    "Team": "CHI",
+    "Salary": 8156500,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 1,
+    "Adjusted Win Shares": 2.4
+  },
+  {
+    "Name": "Ben Simmons",
+    "Team": "PHI",
+    "Salary": 8113930,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 2.8,
+    "Adjusted_VORP": 4.6,
+    "Win Shares": 6.9,
+    "Adjusted Win Shares": 8.3
+  },
+  {
+    "Name": "Kentavious Caldwell-Pope",
+    "Team": "LAL",
+    "Salary": 8089282,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 3.7,
+    "Adjusted Win Shares": 5.1
+  },
+  {
+    "Name": "Maxi Kleber",
+    "Team": "DAL",
+    "Salary": 8000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 4.8,
+    "Adjusted Win Shares": 6.2
+  },
+  {
+    "Name": "Lou Williams",
+    "Team": "LAC",
+    "Salary": 8000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.3,
+    "Adjusted_VORP": 3.1,
+    "Win Shares": 4.1,
+    "Adjusted Win Shares": 5.5
+  },
+  {
+    "Name": "Wayne Ellington",
+    "Team": "NYK",
+    "Salary": 8000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Elfrid Payton",
+    "Team": "NYK",
+    "Salary": 8000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 1.7,
+    "Adjusted Win Shares": 3.1
+  },
+  {
+    "Name": "Thomas Bryant",
+    "Team": "WAS",
+    "Salary": 8000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.2,
+    "Adjusted_VORP": 3,
+    "Win Shares": 3.9,
+    "Adjusted Win Shares": 5.3
+  },
+  {
+    "Name": "RJ Barrett",
+    "Team": "NYK",
+    "Salary": 7839960,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -1,
+    "Adjusted_VORP": 0.8,
+    "Win Shares": -0.5,
+    "Adjusted Win Shares": 0.9
+  },
+  {
+    "Name": "Jayson Tatum",
+    "Team": "BOS",
+    "Salary": 7830000,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 3.4,
+    "Adjusted_VORP": 5.2,
+    "Win Shares": 6.9,
+    "Adjusted Win Shares": 8.3
+  },
+  {
+    "Name": "Jae Crowder",
+    "Team": "MIA",
+    "Salary": 7815533,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Luka Doncic",
+    "Team": "DAL",
+    "Salary": 7683360,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 5.4,
+    "Adjusted_VORP": 7.2,
+    "Win Shares": 8.8,
+    "Adjusted Win Shares": 10.2
+  },
+  {
+    "Name": "Joe Harris",
+    "Team": "BRK",
+    "Salary": 7666667,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 4.3,
+    "Adjusted Win Shares": 5.7
+  },
+  {
+    "Name": "Seth Curry",
+    "Team": "DAL",
+    "Salary": 7461380,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.2,
+    "Adjusted_VORP": 3,
+    "Win Shares": 4.3,
+    "Adjusted Win Shares": 5.7
+  },
+  {
+    "Name": "Doug McDermott",
+    "Team": "IND",
+    "Salary": 7333334,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 3.3,
+    "Adjusted Win Shares": 4.7
+  },
+  {
+    "Name": "Langston Galloway",
+    "Team": "DET",
+    "Salary": 7333333,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 3.1,
+    "Adjusted Win Shares": 4.5
+  },
+  {
+    "Name": "Derrick Rose",
+    "Team": "DET",
+    "Salary": 7317073,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.4,
+    "Adjusted_VORP": 3.2,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Brandon Ingram",
+    "Team": "NOP",
+    "Salary": 7265485,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 2.2,
+    "Adjusted_VORP": 4,
+    "Win Shares": 5.1,
+    "Adjusted Win Shares": 6.5
+  },
+  {
+    "Name": "D.J. Augustin",
+    "Team": "ORL",
+    "Salary": 7250000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 2.9,
+    "Adjusted Win Shares": 4.3
+  },
+  {
+    "Name": "De'Andre Hunter",
+    "Team": "ATL",
+    "Salary": 7068360,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -1.4,
+    "Adjusted_VORP": 0.4,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Josh Jackson",
+    "Team": "MEM",
+    "Salary": 7059480,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Ersan Ilyasova",
+    "Team": "MIL",
+    "Salary": 7000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 3.6,
+    "Adjusted Win Shares": 5
+  },
+  {
+    "Name": "Davis Bertans",
+    "Team": "WAS",
+    "Salary": 7000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 3.5,
+    "Adjusted Win Shares": 4.9
+  },
+  {
+    "Name": "Jaren Jackson",
+    "Team": "MEM",
+    "Salary": 6927480,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 3.5,
+    "Adjusted Win Shares": 4.9
+  },
+  {
+    "Name": "DeMarre Carroll",
+    "Team": "SAS",
+    "Salary": 6842307,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": -0.1,
+    "Adjusted Win Shares": 1.3
+  },
+  {
+    "Name": "Nemanja Bjelica",
+    "Team": "SAC",
+    "Salary": 6825000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.9,
+    "Adjusted_VORP": 3.7,
+    "Win Shares": 5.3,
+    "Adjusted Win Shares": 6.7
+  },
+  {
+    "Name": "Jaylen Brown",
+    "Team": "BOS",
+    "Salary": 6534829,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.4,
+    "Adjusted_VORP": 3.2,
+    "Win Shares": 4.9,
+    "Adjusted Win Shares": 6.3
+  },
+  {
+    "Name": "Ivica Zubac",
+    "Team": "LAC",
+    "Salary": 6481482,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 6.6,
+    "Adjusted Win Shares": 8
+  },
+  {
+    "Name": "Darius Garland",
+    "Team": "CLE",
+    "Salary": 6400920,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -1.7,
+    "Adjusted_VORP": 0.1,
+    "Win Shares": -1.3,
+    "Adjusted Win Shares": 0.1
+  },
+  {
+    "Name": "De'Aaron Fox",
+    "Team": "SAC",
+    "Salary": 6392760,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.6,
+    "Adjusted_VORP": 3.4,
+    "Win Shares": 4,
+    "Adjusted Win Shares": 5.4
+  },
+  {
+    "Name": "Trae Young",
+    "Team": "ATL",
+    "Salary": 6273000,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 3.1,
+    "Adjusted_VORP": 4.9,
+    "Win Shares": 5.9,
+    "Adjusted Win Shares": 7.3
+  },
+  {
+    "Name": "Montrezl Harrell",
+    "Team": "LAC",
+    "Salary": 6000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 2.2,
+    "Adjusted_VORP": 4,
+    "Win Shares": 7,
+    "Adjusted Win Shares": 8.4
+  },
+  {
+    "Name": "Ish Smith",
+    "Team": "WAS",
+    "Salary": 6000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Marco Belinelli",
+    "Team": "SAS",
+    "Salary": 5846154,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Jarrett Culver",
+    "Team": "MIN",
+    "Salary": 5813640,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.8,
+    "Adjusted_VORP": 1,
+    "Win Shares": -0.1,
+    "Adjusted Win Shares": 1.3
+  },
+  {
+    "Name": "Jonathan Isaac",
+    "Team": "ORL",
+    "Salary": 5806440,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.1,
+    "Adjusted_VORP": 2.9,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Rodney Hood",
+    "Team": "POR",
+    "Salary": 5718000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 1.1,
+    "Adjusted Win Shares": 2.5
+  },
+  {
+    "Name": "Mohamed Bamba",
+    "Team": "ORL",
+    "Salary": 5697600,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Trey Lyles",
+    "Team": "SAS",
+    "Salary": 5500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 2.2,
+    "Adjusted Win Shares": 3.6
+  },
+  {
+    "Name": "Aron Baynes",
+    "Team": "PHO",
+    "Salary": 5453280,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "Kris Dunn",
+    "Team": "CHI",
+    "Salary": 5348007,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.4,
+    "Adjusted_VORP": 2.2,
+    "Win Shares": 2.3,
+    "Adjusted Win Shares": 3.7
+  },
+  {
+    "Name": "Coby White",
+    "Team": "CHI",
+    "Salary": 5307120,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Lauri Markkanen",
+    "Team": "CHI",
+    "Salary": 5300400,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 2.6,
+    "Adjusted Win Shares": 4
+  },
+  {
+    "Name": "Wendell Carter",
+    "Team": "CHI",
+    "Salary": 5201400,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 3.3,
+    "Adjusted Win Shares": 4.7
+  },
+  {
+    "Name": "Daniel Theis",
+    "Team": "BOS",
+    "Salary": 5000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.7,
+    "Adjusted_VORP": 3.5,
+    "Win Shares": 6.5,
+    "Adjusted Win Shares": 7.9
+  },
+  {
+    "Name": "Jaxson Hayes",
+    "Team": "NOP",
+    "Salary": 4862040,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 3.9,
+    "Adjusted Win Shares": 5.3
+  },
+  {
+    "Name": "Buddy Hield",
+    "Team": "SAC",
+    "Salary": 4861208,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.7,
+    "Adjusted_VORP": 3.5,
+    "Win Shares": 3,
+    "Adjusted Win Shares": 4.4
+  },
+  {
+    "Name": "Frank Ntilikina",
+    "Team": "NYK",
+    "Salary": 4855800,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Rodney McGruder",
+    "Team": "LAC",
+    "Salary": 4807693,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 1,
+    "Adjusted Win Shares": 2.4
+  },
+  {
+    "Name": "Enes Kanter",
+    "Team": "BOS",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.9,
+    "Adjusted_VORP": 2.7,
+    "Win Shares": 4.4,
+    "Adjusted Win Shares": 5.8
+  },
+  {
+    "Name": "Garrett Temple",
+    "Team": "BRK",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.4,
+    "Adjusted_VORP": 2.2,
+    "Win Shares": 2.4,
+    "Adjusted Win Shares": 3.8
+  },
+  {
+    "Name": "Justin Holiday",
+    "Team": "IND",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.2,
+    "Adjusted Win Shares": 5.6
+  },
+  {
+    "Name": "JaMychal Green",
+    "Team": "LAC",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 3.1,
+    "Adjusted Win Shares": 4.5
+  },
+  {
+    "Name": "Avery Bradley",
+    "Team": "LAL",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 1.5,
+    "Adjusted Win Shares": 2.9
+  },
+  {
+    "Name": "Robin Lopez",
+    "Team": "MIL",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 1.5,
+    "Adjusted Win Shares": 2.9
+  },
+  {
+    "Name": "Mike Scott",
+    "Team": "PHI",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Frank Kaminsky",
+    "Team": "PHO",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.4,
+    "Adjusted Win Shares": 2.8
+  },
+  {
+    "Name": "Richaun Holmes",
+    "Team": "SAC",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.9,
+    "Adjusted_VORP": 2.7,
+    "Win Shares": 4.9,
+    "Adjusted Win Shares": 6.3
+  },
+  {
+    "Name": "Ed Davis",
+    "Team": "UTA",
+    "Salary": 4767000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.6,
+    "Adjusted Win Shares": 2
+  },
+  {
+    "Name": "Collin Sexton",
+    "Team": "CLE",
+    "Salary": 4764960,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Rui Hachimura",
+    "Team": "WAS",
+    "Salary": 4469160,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 1.8,
+    "Adjusted Win Shares": 3.2
+  },
+  {
+    "Name": "Kevon Looney",
+    "Team": "GSW",
+    "Salary": 4464286,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0,
+    "Adjusted Win Shares": 1.4
+  },
+  {
+    "Name": "Dennis Smith Jr.",
+    "Team": "NYK",
+    "Salary": 4463640,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.6,
+    "Adjusted_VORP": 1.2,
+    "Win Shares": -0.9,
+    "Adjusted Win Shares": 0.5
+  },
+  {
+    "Name": "Jamal Murray",
+    "Team": "DEN",
+    "Salary": 4444746,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.3,
+    "Adjusted Win Shares": 5.7
+  },
+  {
+    "Name": "Kevin Knox",
+    "Team": "NYK",
+    "Salary": 4380120,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.7,
+    "Adjusted_VORP": 1.1,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Cam Reddish",
+    "Team": "ATL",
+    "Salary": 4245720,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.9,
+    "Adjusted_VORP": 0.9,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Zach Collins",
+    "Team": "POR",
+    "Salary": 4240200,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.3,
+    "Adjusted Win Shares": 1.7
+  },
+  {
+    "Name": "Mikal Bridges",
+    "Team": "PHO",
+    "Salary": 4161000,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.8,
+    "Adjusted Win Shares": 6.2
+  },
+  {
+    "Name": "Alex Len",
+    "Team": "SAC",
+    "Salary": 4160000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Nicolò Melli",
+    "Team": "NOP",
+    "Salary": 4102564,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 1.8,
+    "Adjusted Win Shares": 3.2
+  },
+  {
+    "Name": "Cameron Johnson",
+    "Team": "PHO",
+    "Salary": 4033440,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 2.7,
+    "Adjusted Win Shares": 4.1
+  },
+  {
+    "Name": "Malik Monk",
+    "Team": "CHO",
+    "Salary": 4028400,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Dorian Finney-Smith",
+    "Team": "DAL",
+    "Salary": 4000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.9,
+    "Adjusted_VORP": 2.7,
+    "Win Shares": 4.9,
+    "Adjusted Win Shares": 6.3
+  },
+  {
+    "Name": "JaVale McGee",
+    "Team": "LAL",
+    "Salary": 4000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 4.7,
+    "Adjusted Win Shares": 6.1
+  },
+  {
+    "Name": "Reggie Bullock",
+    "Team": "NYK",
+    "Salary": 4000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Patrick McCaw",
+    "Team": "TOR",
+    "Salary": 4000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1.4,
+    "Adjusted Win Shares": 2.8
+  },
+  {
+    "Name": "Shai Gilgeous-Alexander",
+    "Team": "OKC",
+    "Salary": 3952920,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 2.2,
+    "Adjusted_VORP": 4,
+    "Win Shares": 6.1,
+    "Adjusted Win Shares": 7.5
+  },
+  {
+    "Name": "P.J. Washington",
+    "Team": "CHO",
+    "Salary": 3831840,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 2,
+    "Adjusted Win Shares": 3.4
+  },
+  {
+    "Name": "Luke Kennard",
+    "Team": "DET",
+    "Salary": 3827160,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.4,
+    "Adjusted_VORP": 2.2,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Miles Bridges",
+    "Team": "CHO",
+    "Salary": 3755400,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 1.6,
+    "Adjusted Win Shares": 3
+  },
+  {
+    "Name": "Jakob Poeltl",
+    "Team": "SAS",
+    "Salary": 3754886,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.3,
+    "Adjusted_VORP": 3.1,
+    "Win Shares": 4,
+    "Adjusted Win Shares": 5.4
+  },
+  {
+    "Name": "Tyler Herro",
+    "Team": "MIA",
+    "Salary": 3640200,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.6,
+    "Adjusted Win Shares": 3
+  },
+  {
+    "Name": "Donovan Mitchell",
+    "Team": "UTA",
+    "Salary": 3635760,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 2.3,
+    "Adjusted_VORP": 4.1,
+    "Win Shares": 5.4,
+    "Adjusted Win Shares": 6.8
+  },
+  {
+    "Name": "Thon Maker",
+    "Team": "DET",
+    "Salary": 3569643,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.5,
+    "Adjusted Win Shares": 2.9
+  },
+  {
+    "Name": "Jerome Robinson",
+    "Team": "WAS",
+    "Salary": 3567720,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Allonzo Trier",
+    "Team": "NYK",
+    "Salary": 3551100,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Danuel House",
+    "Team": "HOU",
+    "Salary": 3540000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 3.6,
+    "Adjusted Win Shares": 5
+  },
+  {
+    "Name": "Domantas Sabonis",
+    "Team": "IND",
+    "Salary": 3529555,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 2.9,
+    "Adjusted_VORP": 4.7,
+    "Win Shares": 7.5,
+    "Adjusted Win Shares": 8.9
+  },
+  {
+    "Name": "Boban Marjanovic",
+    "Team": "DAL",
+    "Salary": 3500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.8,
+    "Adjusted Win Shares": 3.2
+  },
+  {
+    "Name": "T.J. McConnell",
+    "Team": "IND",
+    "Salary": 3500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3.3,
+    "Adjusted Win Shares": 4.7
+  },
+  {
+    "Name": "Taurean Prince",
+    "Team": "BRK",
+    "Salary": 3481986,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 0.6,
+    "Adjusted Win Shares": 2
+  },
+  {
+    "Name": "Dario Šaric",
+    "Team": "PHO",
+    "Salary": 3481986,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 3.6,
+    "Adjusted Win Shares": 5
+  },
+  {
+    "Name": "Romeo Langford",
+    "Team": "BOS",
+    "Salary": 3458400,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Bam Adebayo",
+    "Team": "MIA",
+    "Salary": 3454080,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 3.3,
+    "Adjusted_VORP": 5.1,
+    "Win Shares": 8.5,
+    "Adjusted Win Shares": 9.9
+  },
+  {
+    "Name": "Michael Porter Jr.",
+    "Team": "DEN",
+    "Salary": 3389400,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 2.9,
+    "Adjusted Win Shares": 4.3
+  },
+  {
+    "Name": "Denzel Valentine",
+    "Team": "CHI",
+    "Salary": 3377569,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Juan Hernangómez",
+    "Team": "MIN",
+    "Salary": 3321030,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Sekou Doumbouya",
+    "Team": "DET",
+    "Salary": 3285120,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.9,
+    "Adjusted_VORP": 0.9,
+    "Win Shares": -0.3,
+    "Adjusted Win Shares": 1.1
+  },
+  {
+    "Name": "Justin Jackson",
+    "Team": "DAL",
+    "Salary": 3280920,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 1.2,
+    "Adjusted Win Shares": 2.6
+  },
+  {
+    "Name": "Troy Brown",
+    "Team": "WAS",
+    "Salary": 3219480,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 2.4,
+    "Adjusted Win Shares": 3.8
+  },
+  {
+    "Name": "Yogi Ferrell",
+    "Team": "SAC",
+    "Salary": 3150000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Ryan Arcidiacono",
+    "Team": "CHI",
+    "Salary": 3000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 1.4,
+    "Adjusted Win Shares": 2.8
+  },
+  {
+    "Name": "Quinn Cook",
+    "Team": "LAL",
+    "Salary": 3000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.3,
+    "Adjusted Win Shares": 1.7
+  },
+  {
+    "Name": "Khem Birch",
+    "Team": "ORL",
+    "Salary": 3000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 2.2,
+    "Adjusted Win Shares": 3.6
+  },
+  {
+    "Name": "Nickeil Alexander-Walker",
+    "Team": "NOP",
+    "Salary": 2964840,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": -0.2,
+    "Adjusted Win Shares": 1.2
+  },
+  {
+    "Name": "Cedi Osman",
+    "Team": "CLE",
+    "Salary": 2907143,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 1.6,
+    "Adjusted Win Shares": 3
+  },
+  {
+    "Name": "Donte DiVincenzo",
+    "Team": "MIL",
+    "Salary": 2905800,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.3,
+    "Adjusted_VORP": 3.1,
+    "Win Shares": 4.3,
+    "Adjusted Win Shares": 5.7
+  },
+  {
+    "Name": "Bryn Forbes",
+    "Team": "SAS",
+    "Salary": 2875000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 1.5,
+    "Adjusted Win Shares": 2.9
+  },
+  {
+    "Name": "Lonnie Walker",
+    "Team": "SAS",
+    "Salary": 2760480,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 0.3,
+    "Adjusted Win Shares": 1.7
+  },
+  {
+    "Name": "Alex Caruso",
+    "Team": "LAL",
+    "Salary": 2750000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 2.3,
+    "Adjusted Win Shares": 3.7
+  },
+  {
+    "Name": "Malik Beasley",
+    "Team": "MIN",
+    "Salary": 2731714,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1.2,
+    "Adjusted Win Shares": 2.6
+  },
+  {
+    "Name": "John Collins",
+    "Team": "ATL",
+    "Salary": 2686560,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.7,
+    "Adjusted_VORP": 3.5,
+    "Win Shares": 4.9,
+    "Adjusted Win Shares": 6.3
+  },
+  {
+    "Name": "Kevin Huerter",
+    "Team": "ATL",
+    "Salary": 2636280,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 1.6,
+    "Adjusted Win Shares": 3
+  },
+  {
+    "Name": "Caris LeVert",
+    "Team": "BRK",
+    "Salary": 2625718,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 1.5,
+    "Adjusted Win Shares": 2.9
+  },
+  {
+    "Name": "Marko Guduric",
+    "Team": "MEM",
+    "Salary": 2625000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "DeAndre' Bembry",
+    "Team": "ATL",
+    "Salary": 2603982,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Matisse Thybulle",
+    "Team": "PHI",
+    "Salary": 2582160,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 2.3,
+    "Adjusted Win Shares": 3.7
+  },
+  {
+    "Name": "Harry Giles",
+    "Team": "SAC",
+    "Salary": 2578800,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.6,
+    "Adjusted Win Shares": 3
+  },
+  {
+    "Name": "Vince Carter",
+    "Team": "ATL",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.5,
+    "Adjusted_VORP": 1.3,
+    "Win Shares": -0.2,
+    "Adjusted Win Shares": 1.2
+  },
+  {
+    "Name": "Wilson Chandler",
+    "Team": "BRK",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "J.J. Barea",
+    "Team": "DAL",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Thabo Sefolosha",
+    "Team": "HOU",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Jared Dudley",
+    "Team": "LAL",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Rajon Rondo",
+    "Team": "LAL",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 1.4,
+    "Adjusted Win Shares": 2.8
+  },
+  {
+    "Name": "Dwight Howard",
+    "Team": "LAL",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 5.4,
+    "Adjusted Win Shares": 6.8
+  },
+  {
+    "Name": "Udonis Haslem",
+    "Team": "MIA",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0,
+    "Adjusted Win Shares": 1.4
+  },
+  {
+    "Name": "Kyle Korver",
+    "Team": "MIL",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Wesley Matthews",
+    "Team": "MIL",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 3.2,
+    "Adjusted Win Shares": 4.6
+  },
+  {
+    "Name": "Jeff Green",
+    "Team": "UTA",
+    "Salary": 2564753,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Josh Okogie",
+    "Team": "MIN",
+    "Salary": 2530680,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 2.2,
+    "Adjusted Win Shares": 3.6
+  },
+  {
+    "Name": "Vincent Poirier",
+    "Team": "BOS",
+    "Salary": 2505793,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.3,
+    "Adjusted Win Shares": 1.7
+  },
+  {
+    "Name": "Rondae Hollis-Jefferson",
+    "Team": "TOR",
+    "Salary": 2500000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 3.4,
+    "Adjusted Win Shares": 4.8
+  },
+  {
+    "Name": "Brandon Clarke",
+    "Team": "MEM",
+    "Salary": 2478840,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.7,
+    "Adjusted_VORP": 3.5,
+    "Win Shares": 5,
+    "Adjusted Win Shares": 6.4
+  },
+  {
+    "Name": "Terrance Ferguson",
+    "Team": "OKC",
+    "Salary": 2475840,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.8,
+    "Adjusted_VORP": 1,
+    "Win Shares": 0.6,
+    "Adjusted Win Shares": 2
+  },
+  {
+    "Name": "Grayson Allen",
+    "Team": "MEM",
+    "Salary": 2429400,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.2,
+    "Adjusted Win Shares": 2.6
+  },
+  {
+    "Name": "Alfonzo McKinnie",
+    "Team": "CLE",
+    "Salary": 2391985,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.5,
+    "Adjusted_VORP": 1.3,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Grant Williams",
+    "Team": "BOS",
+    "Salary": 2379840,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 1.6,
+    "Adjusted Win Shares": 3
+  },
+  {
+    "Name": "Jarrett Allen",
+    "Team": "BRK",
+    "Salary": 2376840,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 2,
+    "Adjusted_VORP": 3.8,
+    "Win Shares": 8.2,
+    "Adjusted Win Shares": 9.6
+  },
+  {
+    "Name": "Pascal Siakam",
+    "Team": "TOR",
+    "Salary": 2351839,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 2,
+    "Adjusted_VORP": 3.8,
+    "Win Shares": 5.4,
+    "Adjusted Win Shares": 6.8
+  },
+  {
+    "Name": "Skal Labissière",
+    "Team": "ATL",
+    "Salary": 2338847,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.4,
+    "Adjusted Win Shares": 2.8
+  },
+  {
+    "Name": "Chandler Hutchison",
+    "Team": "CHI",
+    "Salary": 2332320,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Patrick Patterson",
+    "Team": "LAC",
+    "Salary": 2331593,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Dejounte Murray",
+    "Team": "SAS",
+    "Salary": 2321735,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 2.6,
+    "Adjusted Win Shares": 4
+  },
+  {
+    "Name": "Alec Burks",
+    "Team": "PHI",
+    "Salary": 2320044,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.4,
+    "Adjusted_VORP": 2.2,
+    "Win Shares": 3.7,
+    "Adjusted Win Shares": 5.1
+  },
+  {
+    "Name": "Isaiah Thomas",
+    "Team": "WAS",
+    "Salary": 2320044,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.5,
+    "Adjusted_VORP": 1.3,
+    "Win Shares": 0,
+    "Adjusted Win Shares": 1.4
+  },
+  {
+    "Name": "Damian Jones",
+    "Team": "ATL",
+    "Salary": 2305057,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 2.8,
+    "Adjusted Win Shares": 4.2
+  },
+  {
+    "Name": "Darius Bazley",
+    "Team": "OKC",
+    "Salary": 2284800,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1,
+    "Adjusted Win Shares": 2.4
+  },
+  {
+    "Name": "Ante Žižic",
+    "Team": "CLE",
+    "Salary": 2281800,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "OG Anunoby",
+    "Team": "TOR",
+    "Salary": 2281800,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.7,
+    "Adjusted_VORP": 3.5,
+    "Win Shares": 5.7,
+    "Adjusted Win Shares": 7.1
+  },
+  {
+    "Name": "Luke Kornet",
+    "Team": "CHI",
+    "Salary": 2250000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.1,
+    "Adjusted Win Shares": 2.5
+  },
+  {
+    "Name": "Markieff Morris(DET)",
+    "Team": "DET",
+    "Salary": 2241808,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1,
+    "Adjusted Win Shares": 2.4
+  },
+  {
+    "Name": "Aaron Holiday",
+    "Team": "IND",
+    "Salary": 2239200,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "Alfonzo McKinnie",
+    "Team": "CLE",
+    "Salary": 2208871,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.5,
+    "Adjusted_VORP": 1.3,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Ty Jerome",
+    "Team": "PHO",
+    "Salary": 2193480,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0,
+    "Adjusted Win Shares": 1.4
+  },
+  {
+    "Name": "Willie Cauley-Stein",
+    "Team": "DAL",
+    "Salary": 2177483,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Austin Rivers",
+    "Team": "HOU",
+    "Salary": 2174318,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 2.4,
+    "Adjusted Win Shares": 3.8
+  },
+  {
+    "Name": "Carmelo Anthony",
+    "Team": "POR",
+    "Salary": 2159029,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.8,
+    "Adjusted_VORP": 1,
+    "Win Shares": 1.3,
+    "Adjusted Win Shares": 2.7
+  },
+  {
+    "Name": "Anfernee Simons",
+    "Team": "POR",
+    "Salary": 2149560,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.9,
+    "Adjusted_VORP": 0.9,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Nassir Little",
+    "Team": "POR",
+    "Salary": 2105520,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.6,
+    "Adjusted Win Shares": 2
+  },
+  {
+    "Name": "Moritz Wagner",
+    "Team": "WAS",
+    "Salary": 2063520,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 1.7,
+    "Adjusted Win Shares": 3.1
+  },
+  {
+    "Name": "Caleb Swanigan",
+    "Team": "POR",
+    "Salary": 2033160,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Ben McLemore",
+    "Team": "HOU",
+    "Salary": 2028594,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 3.3,
+    "Adjusted Win Shares": 4.7
+  },
+  {
+    "Name": "Troy Daniels",
+    "Team": "LAL",
+    "Salary": 2028594,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Mike Muscala",
+    "Team": "OKC",
+    "Salary": 2028594,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.3,
+    "Adjusted Win Shares": 2.7
+  },
+  {
+    "Name": "Nerlens Noel",
+    "Team": "OKC",
+    "Salary": 2028594,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.9,
+    "Adjusted Win Shares": 6.3
+  },
+  {
+    "Name": "Michael Carter-Williams",
+    "Team": "ORL",
+    "Salary": 2028594,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Trey Burke",
+    "Team": "PHI",
+    "Salary": 2028594,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Kyle O'Quinn",
+    "Team": "PHI",
+    "Salary": 2028594,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.4,
+    "Adjusted_VORP": 2.2,
+    "Win Shares": 1.1,
+    "Adjusted Win Shares": 2.5
+  },
+  {
+    "Name": "Torrey Craig",
+    "Team": "DEN",
+    "Salary": 2000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 2,
+    "Adjusted Win Shares": 3.4
+  },
+  {
+    "Name": "Edmond Sumner",
+    "Team": "IND",
+    "Salary": 2000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Landry Shamet",
+    "Team": "LAC",
+    "Salary": 1995120,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 2.6,
+    "Adjusted Win Shares": 4
+  },
+  {
+    "Name": "Kyle Kuzma",
+    "Team": "LAL",
+    "Salary": 1974600,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 2,
+    "Adjusted Win Shares": 3.4
+  },
+  {
+    "Name": "Jordan Poole",
+    "Team": "GSW",
+    "Salary": 1964760,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -1.5,
+    "Adjusted_VORP": 0.3,
+    "Win Shares": -1.2,
+    "Adjusted Win Shares": 0.2
+  },
+  {
+    "Name": "Tony Bradley",
+    "Team": "UTA",
+    "Salary": 1962360,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 3.3,
+    "Adjusted Win Shares": 4.7
+  },
+  {
+    "Name": "Keldon Johnson",
+    "Team": "SAS",
+    "Salary": 1950600,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.1,
+    "Adjusted Win Shares": 2.5
+  },
+  {
+    "Name": "Derrick White",
+    "Team": "SAS",
+    "Salary": 1948080,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 1.4,
+    "Adjusted_VORP": 3.2,
+    "Win Shares": 4.2,
+    "Adjusted Win Shares": 5.6
+  },
+  {
+    "Name": "Robert Williams",
+    "Team": "BOS",
+    "Salary": 1937520,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.7,
+    "Adjusted_VORP": 2.5,
+    "Win Shares": 2,
+    "Adjusted Win Shares": 3.4
+  },
+  {
+    "Name": "Josh Hart",
+    "Team": "NOP",
+    "Salary": 1934160,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 3.1,
+    "Adjusted Win Shares": 4.5
+  },
+  {
+    "Name": "Jacob Evans",
+    "Team": "MIN",
+    "Salary": 1925880,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.5,
+    "Adjusted_VORP": 1.3,
+    "Win Shares": -0.5,
+    "Adjusted Win Shares": 0.9
+  },
+  {
+    "Name": "Džanan Musa",
+    "Team": "BRK",
+    "Salary": 1911600,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Omari Spellman",
+    "Team": "MIN",
+    "Salary": 1897800,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.2,
+    "Adjusted Win Shares": 2.6
+  },
+  {
+    "Name": "Tim Frazier",
+    "Team": "DET",
+    "Salary": 1882867,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "James Ennis",
+    "Team": "ORL",
+    "Salary": 1882867,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 0.7,
+    "Adjusted Win Shares": 2.1
+  },
+  {
+    "Name": "Glenn Robinson",
+    "Team": "PHI",
+    "Salary": 1882867,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Shabazz Napier",
+    "Team": "WAS",
+    "Salary": 1845301,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Markieff Morris(LAL)",
+    "Team": "LAL",
+    "Salary": 1750000,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "JaKarr Sampson",
+    "Team": "IND",
+    "Salary": 1737145,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.2,
+    "Adjusted Win Shares": 2.6
+  },
+  {
+    "Name": "Raul Neto",
+    "Team": "PHI",
+    "Salary": 1737145,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1.2,
+    "Adjusted Win Shares": 2.6
+  },
+  {
+    "Name": "Mario Hezonja",
+    "Team": "POR",
+    "Salary": 1737145,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Emmanuel Mudiay",
+    "Team": "UTA",
+    "Salary": 1737145,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1,
+    "Adjusted Win Shares": 2.4
+  },
+  {
+    "Name": "Pat Connaughton",
+    "Team": "MIL",
+    "Salary": 1723050,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3.4,
+    "Adjusted Win Shares": 4.8
+  },
+  {
+    "Name": "Jahlil Okafor",
+    "Team": "NOP",
+    "Salary": 1702486,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 1.3,
+    "Adjusted Win Shares": 2.7
+  },
+  {
+    "Name": "Rodions Kurucs",
+    "Team": "BRK",
+    "Salary": 1699236,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "David Nwaba",
+    "Team": "BRK",
+    "Salary": 1678854,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Cheick Diallo",
+    "Team": "PHO",
+    "Salary": 1678854,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.3,
+    "Adjusted Win Shares": 2.7
+  },
+  {
+    "Name": "Georges Niang",
+    "Team": "UTA",
+    "Salary": 1678854,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.4,
+    "Adjusted_VORP": 2.2,
+    "Win Shares": 1.8,
+    "Adjusted Win Shares": 3.2
+  },
+  {
+    "Name": "Willy Hernangómez",
+    "Team": "CHO",
+    "Salary": 1676735,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Treveon Graham",
+    "Team": "ATL",
+    "Salary": 1645357,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Christian Wood",
+    "Team": "DET",
+    "Salary": 1645357,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.7,
+    "Adjusted_VORP": 3.5,
+    "Win Shares": 5.1,
+    "Adjusted Win Shares": 6.5
+  },
+  {
+    "Name": "Derrick Jones",
+    "Team": "MIA",
+    "Salary": 1645357,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1,
+    "Adjusted_VORP": 2.8,
+    "Win Shares": 4.4,
+    "Adjusted Win Shares": 5.8
+  },
+  {
+    "Name": "Furkan Korkmaz",
+    "Team": "PHI",
+    "Salary": 1620564,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 2.8,
+    "Adjusted Win Shares": 4.2
+  },
+  {
+    "Name": "Semi Ojeleye",
+    "Team": "BOS",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Dwayne Bacon",
+    "Team": "CHO",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.8,
+    "Adjusted_VORP": 1,
+    "Win Shares": -0.8,
+    "Adjusted Win Shares": 0.6
+  },
+  {
+    "Name": "Dillon Brooks",
+    "Team": "MEM",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": -1.1,
+    "Adjusted_VORP": 0.7,
+    "Win Shares": 1.2,
+    "Adjusted Win Shares": 2.6
+  },
+  {
+    "Name": "Sterling Brown",
+    "Team": "MIL",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1.1,
+    "Adjusted Win Shares": 2.5
+  },
+  {
+    "Name": "Frank Jackson",
+    "Team": "NOP",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.7,
+    "Adjusted_VORP": 1.1,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Damyean Dotson",
+    "Team": "NYK",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Abdel Nader",
+    "Team": "OKC",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 1.3,
+    "Adjusted Win Shares": 2.7
+  },
+  {
+    "Name": "Wesley Iwundu",
+    "Team": "ORL",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 1.7,
+    "Adjusted Win Shares": 3.1
+  },
+  {
+    "Name": "Royce O'Neale",
+    "Team": "UTA",
+    "Salary": 1618520,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.5,
+    "Adjusted_VORP": 3.3,
+    "Win Shares": 4.3,
+    "Adjusted Win Shares": 5.7
+  },
+  {
+    "Name": "Monte Morris",
+    "Team": "DEN",
+    "Salary": 1588231,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3.8,
+    "Adjusted Win Shares": 5.2
+  },
+  {
+    "Name": "Chris Boucher",
+    "Team": "TOR",
+    "Salary": 1588231,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3.8,
+    "Adjusted Win Shares": 5.2
+  },
+  {
+    "Name": "Mitchell Robinson",
+    "Team": "NYK",
+    "Salary": 1559712,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.8,
+    "Adjusted_VORP": 3.6,
+    "Win Shares": 6.8,
+    "Adjusted Win Shares": 8.2
+  },
+  {
+    "Name": "Brad Wanamaker",
+    "Team": "BOS",
+    "Salary": 1445697,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 3.5,
+    "Adjusted Win Shares": 4.9
+  },
+  {
+    "Name": "Shake Milton",
+    "Team": "PHI",
+    "Salary": 1445697,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "Devonte' Graham",
+    "Team": "CHO",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.4,
+    "Adjusted_VORP": 3.2,
+    "Win Shares": 3.4,
+    "Adjusted Win Shares": 4.8
+  },
+  {
+    "Name": "Ryan Broekhoff",
+    "Team": "DAL",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Jalen Brunson",
+    "Team": "DAL",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "Sviatoslav Mykhailiuk",
+    "Team": "DET",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1.6,
+    "Adjusted Win Shares": 3
+  },
+  {
+    "Name": "Bruce Brown",
+    "Team": "DET",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "Isaiah Hartenstein",
+    "Team": "HOU",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 1.1,
+    "Adjusted Win Shares": 2.5
+  },
+  {
+    "Name": "De'Anthony Melton",
+    "Team": "MEM",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 1.7,
+    "Adjusted Win Shares": 3.1
+  },
+  {
+    "Name": "Kendrick Nunn",
+    "Team": "MIA",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 2,
+    "Adjusted Win Shares": 3.4
+  },
+  {
+    "Name": "Duncan Robinson",
+    "Team": "MIA",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 1.3,
+    "Adjusted_VORP": 3.1,
+    "Win Shares": 5.3,
+    "Adjusted Win Shares": 6.7
+  },
+  {
+    "Name": "Kenrich Williams",
+    "Team": "NOP",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Hamidou Diallo",
+    "Team": "OKC",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Elie Okobo",
+    "Team": "PHO",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1,
+    "Adjusted Win Shares": 2.4
+  },
+  {
+    "Name": "Jevon Carter",
+    "Team": "PHO",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 1.8,
+    "Adjusted Win Shares": 3.2
+  },
+  {
+    "Name": "Gary Trent",
+    "Team": "POR",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.6,
+    "Adjusted_VORP": 2.4,
+    "Win Shares": 2.5,
+    "Adjusted Win Shares": 3.9
+  },
+  {
+    "Name": "Isaac Bonga",
+    "Team": "WAS",
+    "Salary": 1416852,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 1.8,
+    "Adjusted Win Shares": 3.2
+  },
+  {
+    "Name": "Marquese Chriss",
+    "Team": "GSW",
+    "Salary": 1413272,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3.4,
+    "Adjusted Win Shares": 4.8
+  },
+  {
+    "Name": "Bruno Fernando",
+    "Team": "ATL",
+    "Salary": 1400000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Jaylen Nowell",
+    "Team": "MIN",
+    "Salary": 1400000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "Kevin Porter",
+    "Team": "CLE",
+    "Salary": 1290960,
+    "Rookie Scale Contract?": "Yes",
+    "VORP": -0.5,
+    "Adjusted_VORP": 1.3,
+    "Win Shares": 0.3,
+    "Adjusted Win Shares": 1.7
+  },
+  {
+    "Name": "Carsen Edwards",
+    "Team": "BOS",
+    "Salary": 1228026,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Cody Martin",
+    "Team": "CHO",
+    "Salary": 1173310,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 1,
+    "Adjusted Win Shares": 2.4
+  },
+  {
+    "Name": "Gary Payton",
+    "Team": "WAS",
+    "Salary": 1090781,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Admiral Schofield",
+    "Team": "WAS",
+    "Salary": 1000000,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Marvin Williams",
+    "Team": "MIL",
+    "Salary": 956349,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.9,
+    "Adjusted Win Shares": 2.3
+  },
+  {
+    "Name": "Nicolas Claxton",
+    "Team": "BRK",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Daniel Gafford",
+    "Team": "CHI",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 1.9,
+    "Adjusted Win Shares": 3.3
+  },
+  {
+    "Name": "Jalen McDaniels",
+    "Team": "CHO",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Caleb Martin",
+    "Team": "CHO",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Eric Paschall",
+    "Team": "GSW",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.3,
+    "Adjusted_VORP": 1.5,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "Naz Reid",
+    "Team": "MIN",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Matt Thomas",
+    "Team": "TOR",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.3,
+    "Adjusted_VORP": 2.1,
+    "Win Shares": 1.2,
+    "Adjusted Win Shares": 2.6
+  },
+  {
+    "Name": "Terence Davis",
+    "Team": "TOR",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.8,
+    "Adjusted_VORP": 2.6,
+    "Win Shares": 3.1,
+    "Adjusted Win Shares": 4.5
+  },
+  {
+    "Name": "Miye Oni",
+    "Team": "UTA",
+    "Salary": 898310,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Timothé Luwawu-Cabarrot",
+    "Team": "BRK",
+    "Salary": 844170,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 1.7,
+    "Adjusted Win Shares": 3.1
+  },
+  {
+    "Name": "Damion Lee",
+    "Team": "GSW",
+    "Salary": 842327,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 1.7,
+    "Adjusted Win Shares": 3.1
+  },
+  {
+    "Name": "Jeff Green",
+    "Team": "HOU",
+    "Salary": 840427,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.5,
+    "Adjusted_VORP": 2.3,
+    "Win Shares": 2.1,
+    "Adjusted Win Shares": 3.5
+  },
+  {
+    "Name": "Reggie Jackson",
+    "Team": "LAC",
+    "Salary": 734025,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.2,
+    "Adjusted_VORP": 2,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Gary Clark",
+    "Team": "ORL",
+    "Salary": 718765,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.6,
+    "Adjusted Win Shares": 2
+  },
+  {
+    "Name": "Gary Clark(HOU)",
+    "Team": "HOU",
+    "Salary": 708426,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0.1,
+    "Adjusted_VORP": 1.9,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Brandon Goodwin",
+    "Team": "ATL",
+    "Salary": 522738,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.1,
+    "Adjusted Win Shares": 1.5
+  },
+  {
+    "Name": "Anžejs Pasecniks",
+    "Team": "WAS",
+    "Salary": 482144,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 0.5,
+    "Adjusted Win Shares": 1.9
+  },
+  {
+    "Name": "Anthony Tolliver",
+    "Team": "MEM",
+    "Salary": 434704,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.3,
+    "Adjusted Win Shares": 1.7
+  },
+  {
+    "Name": "Iman Shumpert",
+    "Team": "BRK",
+    "Salary": 419443,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0,
+    "Adjusted Win Shares": 1.4
+  },
+  {
+    "Name": "Ky Bowman",
+    "Team": "GSW",
+    "Salary": 350189,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.6,
+    "Adjusted_VORP": 1.2,
+    "Win Shares": -0.1,
+    "Adjusted Win Shares": 1.3
+  },
+  {
+    "Name": "Juan Toscano-Anderson",
+    "Team": "GSW",
+    "Salary": 350189,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.1,
+    "Adjusted_VORP": 1.7,
+    "Win Shares": 0.2,
+    "Adjusted Win Shares": 1.6
+  },
+  {
+    "Name": "PJ Dozier",
+    "Team": "DEN",
+    "Salary": 183115,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.2,
+    "Adjusted_VORP": 1.6,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  },
+  {
+    "Name": "Luguentz Dort",
+    "Team": "OKC",
+    "Salary": 155647,
+    "Rookie Scale Contract?": "No",
+    "VORP": -0.4,
+    "Adjusted_VORP": 1.4,
+    "Win Shares": 0.8,
+    "Adjusted Win Shares": 2.2
+  },
+  {
+    "Name": "Johnathan Williams",
+    "Team": "WAS",
+    "Salary": 106181,
+    "Rookie Scale Contract?": "No",
+    "VORP": 0,
+    "Adjusted_VORP": 1.8,
+    "Win Shares": 0.4,
+    "Adjusted Win Shares": 1.8
+  }
+  ]
