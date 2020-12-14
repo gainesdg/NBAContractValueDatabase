@@ -212,9 +212,9 @@ def rank_teams(rank_type, min_salary, rookies, adj_metrics, avd_metrics):
     rank = 1
 
     for x in sorted_dict:
-        print(rank, ": ", x[0])
+        print(x[0])
         rank = rank + 1
-
+        #rank, ": ", 
 
 def fix_salary(salary):
     if ',' in str(salary):
@@ -343,6 +343,7 @@ def rank_teams_setup():
         min_salary = 898310
         rookies = "Yes"
         adj_metrics = "Raw"
+        avd_metrics = "Raw"
     else:
         min_salary = input("What is the minimum salary you would like to rank?"
                            " Enter in 1 to return all applicable contracts:\n")
